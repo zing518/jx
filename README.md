@@ -2,7 +2,7 @@
 1、手机应用商店搜索下载“喵惠”APP：[点击下载](https://a.app.qq.com/o/simple.jsp?pkgname=com.miaohui.xin "点击链接")  
 2、喵惠APP上点击进入“淘特1分购”，完成1分购包邮商品下单  
 3、1分购包邮商品确认收货后联系客服领取1个月视频会员充值到自己的视频账号  
-![](https://github.com/omxmo/jx/blob/main/tt.png)
+![](https://github.com/omxmo/jx/blob/main/tt.png)  
 ![](https://github.com/omxmo/jx/blob/main/vip.png)
 ![](https://github.com/omxmo/jx/blob/main/ykvip.png)  
 
