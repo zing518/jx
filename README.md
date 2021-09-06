@@ -1,10 +1,7 @@
-# 免费领取视频会员充值到自己的视频账号  
+# 免费领取外卖会员充值到自己的饿了么/美团外卖账号  
 1、手机应用商店搜索下载“喵惠”APP：[点击下载链接](https://a.app.qq.com/o/simple.jsp?pkgname=com.miaohui.xin "点击链接")  
-2、喵惠APP上点击进入“淘特1分购”，完成1分购包邮商品下单  
-3、1分购包邮商品确认收货后联系客服领取1个月视频会员充值到自己的视频账号  
-![](https://github.com/omxmo/jx/blob/main/tt.png)  
-![](https://github.com/omxmo/jx/blob/main/vip.png)
-![](https://github.com/omxmo/jx/blob/main/ykvip.png)  
+2、使用喵惠APP上领外卖红包，在饿了么或美团上面点外卖
+3、收到外卖后联系客服领取1个月外卖会员充值到自己的饿了么/美团外卖账号  
 
 # 会员解析  
 优酷/爱奇艺/腾讯视频/哔哩哔哩/芒果TV等平台免费会员解析，视频在线高清播放：[视频观看](https://resoumen.com/v/ "点击链接")  
